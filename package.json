@@ -1,0 +1,25 @@
+{
+  "name": "sis-colegio",
+  "version": "1.0.0",
+  "description": "Sistema web académico para colegios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeadCita/sis-colegio.git"
+  },
+  "author": "HeadCita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeadCita/sis-colegio/issues"
+  },
+  "homepage": "https://github.com/HeadCita/sis-colegio#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "pug": "^2.0.0-rc.1"
+  }
+}
